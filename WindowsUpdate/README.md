@@ -17,5 +17,5 @@ Get-WindowsUpdate
 And finally, to download and install the updates:
 
 ```ps
-Install-WindowsUpdate
+Install-WindowsUpdate -AcceptAll
 ```
